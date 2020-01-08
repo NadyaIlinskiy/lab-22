@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [Code SendBox](https://codesandbox.io/s/small-bush-9lk8l)
-- [Netlify](https://modest-mestorf-c446e5.netlify.com)
+- [Netlify](https://csb-9lk8l.netlify.com)
 
 ### Modules
 
